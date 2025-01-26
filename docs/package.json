@@ -37,7 +37,7 @@
     "mark.js": "^8.11.1",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.0.1",
-    "minisearch": "^6.3.0",
+    "minisearch": "^7.1.1",
     "postcss": "^8.4.39",
     "shiki": "^1.11.1",
     "tailwindcss": "^3.4.14",
